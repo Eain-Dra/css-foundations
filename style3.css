@@ -1,0 +1,18 @@
+.black, .yellow{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.black{
+    background-color: black;
+    color: white;
+    display:inline-block;
+    border: 5px solid lightgray;
+    float: left;
+    margin-right: 5px;
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+    border: 5px solid lightgray;
+}

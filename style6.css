@@ -1,0 +1,24 @@
+.extra{
+    font-weight: bolder;
+}
+.extra .big{
+    font-size: 24px;
+}
+.confirm{
+    background-color: green;
+    color: white;
+}
+.cancel{
+    background-color: white;
+    color: black;
+}
+.thin{
+    font-size: 24px;
+    font-weight: thin;
+
+}
+.thin .child{
+    font-weight: bold;
+    font-size:18px;
+    margin-top: 1rem;
+}
